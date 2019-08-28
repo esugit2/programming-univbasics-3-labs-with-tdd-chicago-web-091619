@@ -1,2 +1,3 @@
-# Add your variables here
-var first_number = "Hello world!"
+# Add your variables
+
+first_number = "Hello world!"
